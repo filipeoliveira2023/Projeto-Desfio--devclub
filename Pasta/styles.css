@@ -1,0 +1,99 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+
+}
+
+
+.link-header {
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #25252389;
+    cursor: pointer;
+    margin-right: 23px;
+
+}
+
+
+.header-botao {
+    background: rgba(245, 106, 106, 0.822);
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    cursor: pointer;
+
+}
+
+
+.imag-logo {
+
+    width: 400px;
+    height: 500px;
+    margin-left: 100px;
+    display: inline-block;
+
+}
+
+
+div {
+
+    display: inline-block;
+    margin-left: 86px;
+    margin: 20px;
+}
+
+
+
+h1 {
+
+    font-weight: 200px;
+    font-size: 58px;
+    line-height: 51px;
+    margin-top: 85px;
+    width: 493px;
+    color: #515151;
+}
+
+p {
+
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    width: 493px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+
+}
+
+.main-botao {
+
+    background-color: #2786c5f0;
+    border-radius: 30px;
+    width: 150px;
+    height: 60px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700px;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+
+}
+
+
+@media (max-width:900px){
+    
+}
